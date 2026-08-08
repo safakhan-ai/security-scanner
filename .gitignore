@@ -9,6 +9,7 @@ __pycache__/
 venv/
 env/
 .venv/
+*.sarif.json
 
 # OS
 .DS_Store
